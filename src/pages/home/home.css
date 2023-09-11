@@ -1,0 +1,6 @@
+.homeContainer{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    color: white;
+}
